@@ -1,4 +1,4 @@
-# Lern-Periode-7
+# Lernperiode-7
 
 16.08.2024 bis 20.09.2024
 
