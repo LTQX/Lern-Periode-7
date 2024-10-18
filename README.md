@@ -12,4 +12,11 @@ Mein Ziel für die nächsten Module in dieser Lernperiode bleibt: mindestens ein
 - [ ] OBA M320
 - [ ] Prüfungsvorbereitung M320
 
+✍️ Heute habe ich an der OBA gearbeitet. Leider bin ich noch nicht fertig geworden, aber ich habe bis zum 23.10.2024 Zeit, sie abzuschließen. Ich habe heute gut und konzentriert gearbeitet. Ich kam mit etwas Verspätung und bin deshalb nicht fertig geworden. Ich werde die OBA heute Abend zu Hause abschließen. Verbesserungen: Schneller arbeiten und bei Fragen am besten den Lehrer fragen, anstatt Zeit mit der Online-Suche zu verschwenden.
+
+
+## 25.10.2024
+
+- [ ] Prüfungsvorbereitung M320
+
 ✍️ Heute habe ich...
