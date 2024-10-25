@@ -1,0 +1,15 @@
+/Users/ylli/Projects/LCR OBA M320/LCR OBA M320/bin/Debug/net7.0/LCR OBA M320
+/Users/ylli/Projects/LCR OBA M320/LCR OBA M320/bin/Debug/net7.0/LCR OBA M320.deps.json
+/Users/ylli/Projects/LCR OBA M320/LCR OBA M320/bin/Debug/net7.0/LCR OBA M320.runtimeconfig.json
+/Users/ylli/Projects/LCR OBA M320/LCR OBA M320/bin/Debug/net7.0/LCR OBA M320.dll
+/Users/ylli/Projects/LCR OBA M320/LCR OBA M320/bin/Debug/net7.0/LCR OBA M320.pdb
+/Users/ylli/Projects/LCR OBA M320/LCR OBA M320/obj/Debug/net7.0/LCR OBA M320.csproj.AssemblyReference.cache
+/Users/ylli/Projects/LCR OBA M320/LCR OBA M320/obj/Debug/net7.0/LCR OBA M320.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ylli/Projects/LCR OBA M320/LCR OBA M320/obj/Debug/net7.0/LCR OBA M320.AssemblyInfoInputs.cache
+/Users/ylli/Projects/LCR OBA M320/LCR OBA M320/obj/Debug/net7.0/LCR OBA M320.AssemblyInfo.cs
+/Users/ylli/Projects/LCR OBA M320/LCR OBA M320/obj/Debug/net7.0/LCR OBA M320.csproj.CoreCompileInputs.cache
+/Users/ylli/Projects/LCR OBA M320/LCR OBA M320/obj/Debug/net7.0/LCR OBA M320.dll
+/Users/ylli/Projects/LCR OBA M320/LCR OBA M320/obj/Debug/net7.0/refint/LCR OBA M320.dll
+/Users/ylli/Projects/LCR OBA M320/LCR OBA M320/obj/Debug/net7.0/LCR OBA M320.pdb
+/Users/ylli/Projects/LCR OBA M320/LCR OBA M320/obj/Debug/net7.0/LCR OBA M320.genruntimeconfig.cache
+/Users/ylli/Projects/LCR OBA M320/LCR OBA M320/obj/Debug/net7.0/ref/LCR OBA M320.dll
