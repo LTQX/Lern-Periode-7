@@ -19,4 +19,4 @@ Mein Ziel für die nächsten Module in dieser Lernperiode bleibt: mindestens ein
 
 - [ ] Prüfungsvorbereitung M320
 
-✍️ Heute habe ich...
+✍️ Heute habe ich mich für die LB vorbereitet. Ich habe heute gut und konzentriert gearbeitet. Nächstes mal wird ich wieder mich für die LB vorbereiten.
