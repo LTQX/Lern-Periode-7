@@ -26,4 +26,23 @@ Mein Ziel für die nächsten Module in dieser Lernperiode bleibt: mindestens ein
 
 - [ ] Prüfungsvorbereitung M320
 
+✍️ Heute habe ich wie letzte Woche nur Theorie gemacht. Ich habe jedoch probiert, ein Klassendiagramm umzusetzen, aber hatte Probleme. Ich hatte dann keine Zeit mehr und ich habe es dann Zuhause gemacht. Das Problem war, das ich bei einem Objekt Private anstatt Public und das hat mich sehr verwirrt.
+
+
+
+## 08.11.2024
+
+- [x] Prüfungsvorbereitung M320
+
+✍️ Heute habe ich Unit Testing geübt. Ich hatte ein Problem mit dem Verweis, aber es wurde dann gelöst mithilfe von den Powerpoints. Ich fühle micv vorbereitet und sicher für die Prüfung M320.
+
+
+
+## 15.11.2024
+
+- [ ] Neues Projekt anfangen
+- [ ] Rechner 2.0 analysieren und Verbesserungsmöglichkeiten finden.
+- [ ] ChatGPT für Ideen fragen (Weiterentwicklung des Codes.
+- [ ] Projekt abschliessen
+
 ✍️ Heute habe ich...
