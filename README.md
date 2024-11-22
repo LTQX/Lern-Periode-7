@@ -40,9 +40,26 @@ Mein Ziel für die nächsten Module in dieser Lernperiode bleibt: mindestens ein
 
 ## 15.11.2024
 
-- [ ] Neues Projekt anfangen
-- [ ] Rechner 2.0 analysieren und Verbesserungsmöglichkeiten finden.
-- [ ] ChatGPT für Ideen fragen (Weiterentwicklung des Codes.
+- [x] Neues Projekt anfangen
+- [x] Rechner 2.0 analysieren und Verbesserungsmöglichkeiten finden.
+- [ ] ChatGPT für Ideen fragen (Weiterentwicklung des Codes).
+- [ ] Projekt abschliessen
+
+✍️ Heute habe ich...
+
+
+## 22.11.2024
+
+- [ ] Erweitert: ChatGPT für Ideen fragen (Weiterentwicklung des Codes).
+- [ ] Projekt abschliessen
+
+
+✍️ Heute habe ich...
+
+
+## 29.11.2024
+
+- [ ] Erweitert: ChatGPT für Ideen fragen (Weiterentwicklung des Codes).
 - [ ] Projekt abschliessen
 
 ✍️ Heute habe ich...
