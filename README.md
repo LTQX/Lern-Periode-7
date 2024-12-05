@@ -45,21 +45,21 @@ Mein Ziel für die nächsten Module in dieser Lernperiode bleibt: mindestens ein
 - [ ] ChatGPT für Ideen fragen (Weiterentwicklung des Codes).
 - [ ] Projekt abschliessen
 
-✍️ Heute habe ich...
+✍️ Heute habe ich an meinem Rechner 2.0 weitergearbeitet. Ich habe ein paar Ideen gesammelt, wie das ich es effizienter umsetzen soll.
 
 
 ## 22.11.2024
 
-- [ ] Erweitert: ChatGPT für Ideen fragen (Weiterentwicklung des Codes).
+- [x] Erweitert: ChatGPT für Ideen fragen (Weiterentwicklung des Codes).
 - [ ] Projekt abschliessen
 
 
-✍️ Heute habe ich...
+✍️ Heute habe ich Ideen gesammelt und angefangen sie zu implementieren. Ich kam nicht wirklich weit aber jetzt weiss ich wenigstens was machen.
 
 
 ## 29.11.2024
 
-- [ ] Erweitert: ChatGPT für Ideen fragen (Weiterentwicklung des Codes).
+- [x] Erweitert: ChatGPT für Ideen fragen (Weiterentwicklung des Codes).
 - [ ] Projekt abschliessen
 
-✍️ Heute habe ich...
+✍️ Heute habe ich an der Implementation gearbeitet, ich kam weit, aber bin noch nicht fertig. Ich habe ein paar Probleme mit der Berechnung vom Durchschnitt. Ich vermute das es an der Gewichtung liegt.
