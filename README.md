@@ -63,3 +63,10 @@ Mein Ziel für die nächsten Module in dieser Lernperiode bleibt: mindestens ein
 - [ ] Projekt abschliessen
 
 ✍️ Heute habe ich an der Implementation gearbeitet, ich kam weit, aber bin noch nicht fertig. Ich habe ein paar Probleme mit der Berechnung vom Durchschnitt. Ich vermute das es an der Gewichtung liegt.
+
+
+## 06.12.2024
+
+- [ ] M294
+
+✍️ Heute habe ich...
