@@ -67,6 +67,14 @@ Mein Ziel für die nächsten Module in dieser Lernperiode bleibt: mindestens ein
 
 ## 06.12.2024
 
-- [ ] M294
+- [x] M294
+
+✍️ Heute habe ich an der LB M294 gearbeitet. Ich habe eine SPA erstellt, mit den Crud Operations, GET, POST, DELETE & PUT. Ich hatte paar Probleme mit dem GitLab. Mein Visual Studio Cdoe war mit dem GitLab verbunden und ich konnte commiten via terminal. Auf GitLab gab es die aktualisierten Dateien nicht, aber sie wurden commitet. Das Problem wurde dann gelöst, indem ich am Schluss diese commands ausgeführt habe: 'git branch -M main' & 'git push -uf origin main'. Ich brauchte sehr viel Zeit da irgendwas in der Rebase am laufen war. Im verlauf vom Morgen gingen alle meine Dateien verloren, aber ich konnte sie dann noch retten, da ich zuvor ChatGPT nach hilfe gefragt habe. Ich konnte die Dateien step by step wiederherstellen. Ich bin zufrieden mit meiner Leistung, auch wenn ich 3 mal im verlauf der LB mein Projekt neu gestartet habe.
+
+## 13.12.2024
+
+- [ ] Rechner 2.0 mit der Erweiterung von ChatGPT abschliessen.
+- [ ] Eine Webseite mit CRUD Operations erstellen
+- [ ] Grundstruktur des Projektes erstellen (Projekt: Crud Operations Website)
 
 ✍️ Heute habe ich...
