@@ -73,8 +73,17 @@ Mein Ziel für die nächsten Module in dieser Lernperiode bleibt: mindestens ein
 
 ## 13.12.2024
 
-- [ ] Rechner 2.0 mit der Erweiterung von ChatGPT abschliessen.
-- [ ] Eine Webseite mit CRUD Operations erstellen
-- [ ] Grundstruktur des Projektes erstellen (Projekt: Crud Operations Website)
+- [x] Rechner 2.0 mit der Erweiterung von ChatGPT abschliessen.
+- [x] Eine Webseite mit CRUD Operations erstellen
+- [x] Grundstruktur des Projektes erstellen (Projekt: Crud Operations Website)
+
+✍️ Heute habe ich den Rechner 2.0 abgeschlossen. Ich habe dann ein neues Projekt angefangen, LieblingsSpieler Website. Auf der Website sind alle Crud-Operations vorhanden und ich bin gut vorangekommen. Ich habe noch nicht alles fertig, ich muss eine bessere externe API finden. Die externe API die ich momentan benutze, zeigt alle Spieler an, aber ich möchte das nur Fussballspieler angezeigt werden. Falls ich keine externe API finde, die das kann, werden ich einfach das Projekt so umändern, das es für alle Spieler geeignet ist.
+Ich möchte nicht mehr Zeit in dieses Projekt investieren, da ich eine neue Webseite mit JS erstellen möchte. Ich möchte eine Website erstellen, die mich als Person beschreibt. Mein Vater hat mir gesagt, ich soll Dienste anbieten auf meiner Website, z.B. kleine Websites programmieren usw., ich finde diese Idee gut. Ich wird die Idee umsetzen aber mit ein bisschen Verfeinerung von mir.
+
+## 20.12.2024
+
+- [ ] Neue externe API finden für meine Lieblings Spieler Website, wenn nicht möglich, Projektidee umgestalten.
+- [ ] Neues Projekt anfangen, ein Plan erstellen 
+- [ ] Mit der Implementation beginnen...
 
 ✍️ Heute habe ich...
