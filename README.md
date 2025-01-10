@@ -71,8 +71,6 @@ Ich möchte nicht mehr Zeit in dieses Projekt investieren, da ich eine neue Webs
 
 ## 20.12.2024
 
-- [ ] Neue externe API finden für meine Lieblings Spieler Website, wenn nicht möglich, Projektidee umgestalten.
-- [ ] Neues Projekt anfangen, ein Plan erstellen
-- [ ] Mit der Implementation beginnen...
-
-✍️ Heute habe ich...
+- [x] Neue externe API finden für meine Lieblings Spieler Website, wenn nicht möglich, Projektidee umgestalten.
+- [x] Neues Projekt anfangen, ein Plan erstellen
+- [x] Mit der Implementation beginnen...
